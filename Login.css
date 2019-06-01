@@ -1,0 +1,90 @@
+h1 {
+  color: black;
+  margin-left: 20px;
+  
+}
+
+.center {
+  margin: auto;
+  width: 100%;
+  border: 3px solid #73AD21;
+  padding: px;
+}
+
+label{ 
+	font-size: 10;
+	font-weight: bold;
+}
+
+.i-am-centered{
+	margin: auto;
+	max-width: 300px;
+	  height: 100px;
+	  
+}
+
+img.resize{
+	margin: auto;
+	max-width: 150px;
+	max-height:100px;
+}
+
+.jumbotron{
+	 background-size: cover; 
+	  margin-bottom: 0px;
+    height: 230px;
+    color: white;
+    text-shadow: black 0.3em 0.3em 0.3em;
+
+}
+
+.form-horizontal{
+	padding-top: 15px;
+	padding-bottom :15px;
+}
+
+.form-inline{
+	
+	padding-top: 20px;
+	padding-bottom :20px;
+	margin:5px 3px;
+	 
+}
+
+
+.form-inline > *{
+	
+	margin: 10px 120px !important;
+	
+}
+.form-group > *{
+		margin: 10px 5px !important;
+			
+}
+.form-control > *{
+	margin: 20px 5px !important;
+	
+}
+
+.card{
+	margin: auto;
+	width: 600px;
+}
+
+.checkbox input{
+	margin: 10px 10px ;
+	height:`10;
+
+}
+
+.checkbox label{
+	margin: 0px 30px 40px 0px;
+	
+}
+
+
+.signInButton{
+	margin: auto;
+	padding-bottom : 20px
+}
+
